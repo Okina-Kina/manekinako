@@ -8,8 +8,9 @@ theme = "beautifulhugo"
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
-            [author]
-                name = "きな"
-                bio = "Likes pixel art."
-                location = "Japan"
-                gravatarEmail = "okinakinako@gmail.com"
+            unsafe = true
+[author]
+    name = "きな"
+    bio = "Likes pixel art."
+    location = "Japan"
+    gravatarEmail = "okinakinako@gmail.com"
