@@ -1,5 +1,5 @@
 # ignore ssh
-.github/
+#.github/
 
 # docker
 docker-compose.yml
