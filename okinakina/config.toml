@@ -5,8 +5,11 @@ publishDir = "../docs" # hugoコマンドを実行したときに格納される
 relativeURLs = true #相対パスで保存に変更
 theme = "beautifulhugo"
 
-[author]
-    name = "きな"
-    bio = "Likes pixel art."
-    location = "Japan"
-    gravatarEmail = "okinakinako@gmail.com"
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            [author]
+                name = "きな"
+                bio = "Likes pixel art."
+                location = "Japan"
+                gravatarEmail = "okinakinako@gmail.com"
