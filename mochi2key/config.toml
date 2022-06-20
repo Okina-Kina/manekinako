@@ -1,4 +1,3 @@
-baseURL = ""
 languageCode = "jp"
 title = "餅ツ記"
 publishDir = "../pub" # hugoコマンドを実行したときに格納されるディレクトリ
