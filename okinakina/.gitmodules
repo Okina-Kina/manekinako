@@ -4,3 +4,7 @@
 [submodule "okinakina/themes/minimal"]
 	path = okinakina/themes/minimal
 	url = https://github.com/calintat/minimal.git
+
+[submodule "beautifulhugo"]
+	path = beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
