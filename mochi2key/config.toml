@@ -9,7 +9,7 @@ theme = "beautifulhugo"
 unsafe = true
 
 [author]
-    name = "きな"
-    bio = "Likes pixel art."
-    location = "Japan"
-    gravatarEmail = "okinakinako@gmail.com"
+name = "きな"
+bio = "Likes pixel art."
+
+copyright = "Copyright © 2022 kina"
