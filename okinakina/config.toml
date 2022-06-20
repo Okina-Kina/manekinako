@@ -4,3 +4,4 @@ title = "丸めたお餅"
 theme = "learn"
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
 relativeURLs = true #相対パスで保存に変更
+theme = BeautifulHugo 
