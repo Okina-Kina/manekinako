@@ -1,4 +1,4 @@
-baseURL = "https://okina-kina.github.io/rounded-omochi/"
+baseURL = "https://okina-kina.github.io/"
 languageCode = "jp"
 title = "餅ツ記"
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
