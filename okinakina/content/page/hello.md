@@ -14,7 +14,7 @@ comments: true
 showMeta: false
 showActions: false
 
-draft: true
+draft: false
 ---
 
 はじめましての方は、はじめまして！<br>
