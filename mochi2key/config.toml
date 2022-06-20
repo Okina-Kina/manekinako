@@ -13,3 +13,16 @@ name = "きな"
 bio = "Likes pixel art."
 
 copyright = "Copyright © 2022 kina"
+
+[[menu.links]]
+ weight = 0
+ identifier = "github"
+ name = "GitHub"
+ pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+ url = "https://github.com/Okina-Kina"
+[[menu.links]]
+ weight = 1
+ identifier = "Twitter"
+ name = "Twitter"
+ pre = "<i class=\"sidebar-button-icon fab fa-twitter\" aria-hidden=\"true\"></i>"
+ url = "https://twitter.com/okinaKina"
