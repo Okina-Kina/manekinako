@@ -1,9 +1,0 @@
-[submodule "okinakina/themes/learn"]
-	path = okinakina/themes/learn
-	url = https://github.com/matcornic/hugo-theme-learn.git
-[submodule "okinakina/themes/minimal"]
-	path = okinakina/themes/minimal
-	url = https://github.com/calintat/minimal.git
-[submodule "okinakina/themes/beautifulhugo"]
-	path = beautifulhugo
-	url = https://github.com/halogenica/beautifulhugo.git
