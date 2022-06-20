@@ -1,0 +1,16 @@
+baseURL = ""
+languageCode = "jp"
+title = "餅ツ記"
+publishDir = "../pub" # hugoコマンドを実行したときに格納されるディレクトリ
+relativeURLs = true #相対パスで保存に変更
+theme = "beautifulhugo"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+[author]
+    name = "きな"
+    bio = "Likes pixel art."
+    location = "Japan"
+    gravatarEmail = "okinakinako@gmail.com"
