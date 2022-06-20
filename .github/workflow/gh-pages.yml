@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - master  # Set a branch name to trigger deployment
+      - main  # Set a branch name to trigger deployment
 
 jobs:
   deploy:
@@ -17,20 +17,19 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.74.3'
 
       - name: Build
         run: hugo --minify
 
+    #   - name: Deploy
+    #     uses: peaceiris/actions-gh-pages@v3
+    #     with:
+    #       github_token: ${{ secrets.GITHUB_TOKEN }}
+    #       publish_dir: ./public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-      #     external_repository: okina-kina/okina-kina.github.io
-      #     publish_branch: main
-      #     cname: rounded-omochi.com
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: okina-kina/okina-kina.github.io
+          publish_branch: pub-pages
