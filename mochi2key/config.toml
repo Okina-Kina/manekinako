@@ -1,28 +1,38 @@
-baseURL = ""
-languageCode = "jp"
-title = "餅ツ記"
+baseURL = "" 
+languageCode = "ja" 
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
 relativeURLs = true #相対パスで保存に変更
-theme = "beautifulhugo"
+theme = "beautifulhugo" 
+title = "餅ツ記" 
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [author]
-name = "きな"
 bio = "Likes pixel art."
-
 copyright = "Copyright © 2022 kina"
+name = "きな"
 
-[[menu.links]]
- weight = 0
- identifier = "github"
- name = "GitHub"
- pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
- url = "https://github.com/Okina-Kina"
-[[menu.links]]
- weight = 1
- identifier = "Twitter"
- name = "Twitter"
- pre = "<i class=\"sidebar-button-icon fab fa-twitter\" aria-hidden=\"true\"></i>"
- url = "https://twitter.com/okinaKina"
+#----------------------------------------------------------
+# [languages]
+#  [languages.en] 
+#   contentDir = "content/en" # English
+# [languages.ja]
+# contentDir = "content/ja" # Japanese
+
+#----------------------------------------------------------
+# ヘッダに追加
+[menu]
+[[menu.main]]
+identifier = 'Works'
+name = 'Works'
+pre = "<i class='fa fa-heart'></i>"
+url = '/works/'
+weight = -110
+
+[[menu.main]]
+name = 'posts'
+post = "<span class='alert'>New!</span>"
+pre = "<i class='fa fa-road'></i>"
+url = '/posts/'
+weight = -100
