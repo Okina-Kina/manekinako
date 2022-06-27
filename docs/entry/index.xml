@@ -6,10 +6,35 @@
     <description>Recent content in Entries on 餅ツ記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jun 2022 08:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 16:09:37 +0000</lastBuildDate>
     
 	<atom:link href="/entry/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022/06/28。</title>
+      <link>/entry/2022/06/28/20220628/</link>
+      <pubDate>Mon, 27 Jun 2022 16:09:37 +0000</pubDate>
+      
+      <guid>/entry/2022/06/28/20220628/</guid>
+      <description>こんばんは！
+自作サイトで色々機能を足そうとしているんですが、
+実際作り始めると何がいるのかわかりませんね。
+あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）
+ひとまずツリー構造は行き当たりばったりに生やしてます。
+まあ今は大丈夫でしょう。
+本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？
+っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）
+まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。
+Q. なんでWIXとかWordPress使わないの？
+A. メリットデメリット度外視で、単純に自作したいからってだけです。
+上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、
+なんというか地道に自給自足したいんだな～と気づいたので
+時代錯誤だろうと何だろうとやりたいことやってる感じです。
+手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。
+（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））
+こんな感じで思ったことをきままに投稿しようと思います～。</description>
+    </item>
     
     <item>
       <title>関西コミティア65に申し込みました！</title>

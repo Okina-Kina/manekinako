@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-06-20T08:27:26+00:00</lastmod>
+    <loc>/entry/2022/06/28/20220628/</loc>
+    <lastmod>2022-06-27T16:09:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>/entry/</loc>
+    <lastmod>2022-06-27T16:09:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-06-27T16:09:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2022-06-20T08:27:26+00:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>/entry/2022/06/20/20220620082726z/</loc>
-    <lastmod>2022-06-20T08:27:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2022-06-20T08:27:26+00:00</lastmod>
   </url>
   
