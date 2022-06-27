@@ -1,9 +1,11 @@
 baseURL = "" 
-languageCode = "ja" 
+languageCode = "en-us" 
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
 relativeURLs = true #相対パスで保存に変更
 theme = "beautifulhugo" 
 title = "餅ツ記" 
+summaryLength = 100
+HackCJKLanguage = true
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -12,6 +14,9 @@ unsafe = true
 readingTime = true
 wordCount = true
 socialShare = true
+[Params.meta]
+favicon = true
+faviconVersion = ""
 
 [Author]
 name = "きな"
@@ -33,7 +38,7 @@ twitter = "okinakina"
 identifier = 'Home'
 name = 'Home'
 url = '/'
-weight = -100
+weight = -120
 
 [[menu.main]]
 identifier = 'Works'
