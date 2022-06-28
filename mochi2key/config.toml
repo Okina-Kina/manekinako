@@ -38,22 +38,22 @@ skeb = "okinaKina"
 [[menu.main]]
 identifier = 'About'
 name = 'About'
-url = 'about'
+url = '/about'
 weight = -120
 
 [[menu.main]]
 identifier = 'Works'
 name = 'Works'
-url = 'works'
+url = '/works'
 weight = -110
 
 [[menu.main]]
 name = 'Blog'
 post = "<span class='alert'>New!</span>"
-url = 'entries'
+url = '/entries'
 weight = -100
 
 [[menu.main]]
 name = 'Contact'
-url = 'contact'
+url = '/contact'
 weight = -90
