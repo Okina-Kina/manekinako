@@ -6,17 +6,47 @@
     <description>Recent content on 餅ツ記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kina01417@gmail.com (きな)</managingEditor>
+    <webMaster>kina01417@gmail.com (きな)</webMaster>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/entry/</link>
+      <title>About</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/entry/</guid>
-      <description></description>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>/about/</guid>
+      <description>「まねきなこ」は、「きな」が設立した創作活動を主とする同人サークルです。
+主にTwitterにてドット絵の投稿および、 ゲーム制作の進捗報告等行っています。</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>/contact/</guid>
+      <description>感想・ご要望・バグレポート etc&amp;hellip; 何かございましたら、こちらへご連絡下さい。 g-mail：</description>
+    </item>
+    
+    <item>
+      <title>Entry</title>
+      <link>/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>/blog/</guid>
+      <description>このページにて投稿をまとめていきます。</description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>/works/</guid>
+      <description>このページにて作品を公開予定です．</description>
     </item>
     
   </channel>
