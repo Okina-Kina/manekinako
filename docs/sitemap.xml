@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://okina-kina.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://okina-kina.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://okina-kina.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://okina-kina.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://okina-kina.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://okina-kina.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>/works/</loc>
+    <loc>https://okina-kina.github.io/works/</loc>
   </url>
   
 </urlset>

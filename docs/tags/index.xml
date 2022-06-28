@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 餅ツ記</title>
-    <link>/tags/</link>
+    <link>https://okina-kina.github.io/tags/</link>
     <description>Recent content in Tags on 餅ツ記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>kina01417@gmail.com (きな)</managingEditor>
     <webMaster>kina01417@gmail.com (きな)</webMaster>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okina-kina.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
