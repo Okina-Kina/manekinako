@@ -1,5 +1,6 @@
 baseURL = "" 
 languageCode = "en-us" 
+DefaultContentLanguage = "ja"
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
 theme = "beautifulhugo" 
 title = "餅ツ記" 
@@ -13,14 +14,14 @@ unsafe = true
 readingTime = true
 wordCount = true
 socialShare = true
-[Params.meta]
-favicon = true
-faviconVersion = ""
+showRelatedPosts = true
+logo = "img/logo.png"
+
+[[Params.bigimg]]
+src = "img/bigimg.png"
 
 [Author]
 name = "きな"
-bio = "Likes pixel art."
-copyright = "Copyright © 2022 kina"
 twitter = "okinakina"
 
 #----------------------------------------------------------
