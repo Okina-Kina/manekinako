@@ -36,19 +36,19 @@ twitter = "okinakina"
 [[menu.main]]
 identifier = 'Home'
 name = 'Home'
-url = '/'
+url = './'
 weight = -120
 
 [[menu.main]]
 identifier = 'Works'
 name = 'Works'
 pre = "<i class='fa fa-heart'></i>"
-url = '/works/'
+url = './works/'
 weight = -110
 
 [[menu.main]]
 name = 'Entries'
 post = "<span class='alert'>New!</span>"
 pre = "<i class='fa fa-road'></i>"
-url = '/entries/'
+url = './entries/'
 weight = -100
