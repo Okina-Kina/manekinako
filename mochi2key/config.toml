@@ -35,7 +35,6 @@ skeb = "okinaKina"
 
 #----------------------------------------------------------
 # ヘッダに追加
-[menu]
 [[menu.main]]
 identifier = 'About'
 name = 'About'
