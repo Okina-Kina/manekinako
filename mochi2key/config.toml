@@ -1,6 +1,7 @@
 baseURL = "" 
 languageCode = "en-us" 
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
+relativeURLs = true #相対パスで保存に変更
 theme = "beautifulhugo" 
 title = "餅ツ記" 
 summaryLength = 100
