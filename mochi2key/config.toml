@@ -1,7 +1,7 @@
 baseURL = "https://okina-kina.github.io/manekinako" 
 languageCode = "en-us" 
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
-# relativeURLs = true #相対パスで保存に変更
+relativeURLs = true #相対パスで保存に変更
 theme = "beautifulhugo" 
 title = "餅ツ記" 
 summaryLength = 100
@@ -35,25 +35,30 @@ skeb = "okinaKina"
 
 #----------------------------------------------------------
 # ヘッダに追加
+[menu]
 [[menu.main]]
+parent = "manekinako"
 identifier = 'About'
 name = 'About'
-url = '../about'
+url = "./about/"
 weight = -120
 
 [[menu.main]]
+parent = "manekinako"
 identifier = 'Works'
 name = 'Works'
-url = '../works'
+url = "./works/"
 weight = -110
 
 [[menu.main]]
+parent = "manekinako"
 name = 'Blog'
 post = "<span class='alert'>New!</span>"
-url = '../entries'
+url = './entries/'
 weight = -100
 
 [[menu.main]]
+parent = "manekinako"
 name = 'Contact'
-url = '../contact'
+url = './contact/'
 weight = -90
