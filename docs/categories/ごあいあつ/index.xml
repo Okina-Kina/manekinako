@@ -2,29 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ごあいあつ on 餅ツ記</title>
-    <link>/categories/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/</link>
+    <link>https://okina-kina.github.io/manekinako/categories/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/</link>
     <description>Recent content in ごあいあつ on 餅ツ記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kina01417@gmail.com (きな)</managingEditor>
+    <webMaster>kina01417@gmail.com (きな)</webMaster>
     <lastBuildDate>Mon, 20 Jun 2022 08:26:47 +0000</lastBuildDate>
     
-	<atom:link href="/categories/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okina-kina.github.io/manekinako/categories/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>サイト移設に伴うご挨拶</title>
-      <link>/entry/2022/06/20/hello/</link>
+      <link>https://okina-kina.github.io/manekinako/entries/2022/06/20/hello/</link>
       <pubDate>Mon, 20 Jun 2022 08:26:47 +0000</pubDate>
-      
-      <guid>/entry/2022/06/20/hello/</guid>
-      <description>はじめましての方は、はじめまして！
-サークル「まねきなこ」の きな と申します。
-ドット絵・ゲーム制作をメインに活動しています。
-この度HUGOという静的サイトジェネレータを使用して、
-サイトを開設してみました。
-創作は寄り道しながら行っているので、進捗はとぼとぼと
-遅くなってしまいますが、温かく見守っていただければと思います。
-それでは、今後ともよろしくお願いします！</description>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/entries/2022/06/20/hello/</guid>
+      <description>はじめましての方は、はじめまして！サークル「まねきなこ」の きな と申します。ドット絵・ゲーム制作をメインに活動しています。この度HUGOという静的サイトジェネレータを使用して、サイトを開設してみました。創作は寄り道しながら行っているので、進捗はとぼとぼと遅くなってしまいますが、温かく見守っていただければと思います。それでは、今後ともよろしくお願いします！</description>
     </item>
     
   </channel>

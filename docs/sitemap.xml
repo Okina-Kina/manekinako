@@ -4,11 +4,14 @@
   
   <url>
     <loc>https://okina-kina.github.io/manekinako/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://okina-kina.github.io/manekinako/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://okina-kina.github.io/manekinako/entries/</loc>
   </url>
   
   <url>
@@ -17,10 +20,6 @@
   
   <url>
     <loc>https://okina-kina.github.io/manekinako/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://okina-kina.github.io/manekinako/entries/</loc>
   </url>
   
   <url>

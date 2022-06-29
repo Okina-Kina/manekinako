@@ -6,11 +6,21 @@ theme = "beautifulhugo"
 title = "餅ツ記" 
 summaryLength = 100
 HackCJKLanguage = true
-
+mainSections = ["post","posts"]
+ 
+[markup]
+[markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
 
+[Permalinks]
+cases = "/:sections/:year/:month/:slug"
+blogs = "/:sections/:year/:month/:day/:slug"
+news = "/:sections/:year/:month/:day/:slug"
+
+
 [Params]
+hideAuthor = true
 readingTime = true
 wordCount = true
 showRelatedPosts = true
@@ -49,7 +59,7 @@ url = "../works/"
 weight = -110
 
 [[menu.main]]
-name = 'Blog'
+name = 'Blogs'
 post = "<span class='alert'>New!</span>"
 url = '../entries/'
 weight = -100
