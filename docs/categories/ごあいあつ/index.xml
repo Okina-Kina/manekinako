@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ごあいあつ on 餅ツ記</title>
+    <title>ごあいあつ on まねきなこ</title>
     <link>https://okina-kina.github.io/manekinako/categories/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/</link>
-    <description>Recent content in ごあいあつ on 餅ツ記</description>
+    <description>Recent content in ごあいあつ on まねきなこ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>kina01417@gmail.com (きな)</managingEditor>
@@ -15,11 +15,34 @@
     
     <item>
       <title>サイト移設に伴うご挨拶</title>
-      <link>https://okina-kina.github.io/manekinako/entries/2022/06/20/hello/</link>
+      <link>https://okina-kina.github.io/manekinako/blogs/2022/06/20/2022/06/20/%E3%82%B5%E3%82%A4%E3%83%88%E7%A7%BB%E8%A8%AD%E3%81%AB%E4%BC%B4%E3%81%86%E3%81%94%E6%8C%A8%E6%8B%B6/</link>
       <pubDate>Mon, 20 Jun 2022 08:26:47 +0000</pubDate>
       <author>kina01417@gmail.com (きな)</author>
-      <guid>https://okina-kina.github.io/manekinako/entries/2022/06/20/hello/</guid>
-      <description>はじめましての方は、はじめまして！サークル「まねきなこ」の きな と申します。ドット絵・ゲーム制作をメインに活動しています。この度HUGOという静的サイトジェネレータを使用して、サイトを開設してみました。創作は寄り道しながら行っているので、進捗はとぼとぼと遅くなってしまいますが、温かく見守っていただければと思います。それでは、今後ともよろしくお願いします！</description>
+      <guid>https://okina-kina.github.io/manekinako/blogs/2022/06/20/2022/06/20/%E3%82%B5%E3%82%A4%E3%83%88%E7%A7%BB%E8%A8%AD%E3%81%AB%E4%BC%B4%E3%81%86%E3%81%94%E6%8C%A8%E6%8B%B6/</guid>
+      <description>はじめましての方は、はじめまして！
+サークル「まねきなこ」の きな と申します。
+ドット絵・ゲーム制作をメインに活動しています。
+この度HUGOという静的サイトジェネレータを使用して、
+サイトを開設してみました。
+創作は寄り道しながら行っているので、進捗はとぼとぼと
+遅くなってしまいますが、温かく見守っていただければと思います。
+それでは、今後ともよろしくお願いします！</description>
+    </item>
+    
+    <item>
+      <title>サイト移設に伴うご挨拶</title>
+      <link>https://okina-kina.github.io/manekinako/blogs/2022/06/20/%E3%82%B5%E3%82%A4%E3%83%88%E7%A7%BB%E8%A8%AD%E3%81%AB%E4%BC%B4%E3%81%86%E3%81%94%E6%8C%A8%E6%8B%B6/</link>
+      <pubDate>Mon, 20 Jun 2022 08:26:47 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/blogs/2022/06/20/%E3%82%B5%E3%82%A4%E3%83%88%E7%A7%BB%E8%A8%AD%E3%81%AB%E4%BC%B4%E3%81%86%E3%81%94%E6%8C%A8%E6%8B%B6/</guid>
+      <description>はじめましての方は、はじめまして！
+サークル「まねきなこ」の きな と申します。
+ドット絵・ゲーム制作をメインに活動しています。
+この度HUGOという静的サイトジェネレータを使用して、
+サイトを開設してみました。
+創作は寄り道しながら行っているので、進捗はとぼとぼと
+遅くなってしまいますが、温かく見守っていただければと思います。
+それでは、今後ともよろしくお願いします！</description>
     </item>
     
   </channel>

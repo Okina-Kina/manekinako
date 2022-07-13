@@ -1,31 +1,56 @@
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
-  <head>
-    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
-    <link rel="icon" href="img.favicon/favicon.ico" type="image/x-icon"> <link rel="manifest" href="img/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    
+
+<head>
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+  <link rel="icon" href="img.favicon/favicon.ico" type="image/x-icon">
+  <link rel="manifest" href="img/favicon/manifest.json">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>2022/06/28。 - 餅ツ記</title>
-  <meta name="description" content="こんばんは！自作サイトで色々機能を足そうとしているんですが、実際作り始めると何がいるのかわかりませんね。あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）ひとまずツリー構造は行き当たりばったりに生やしてます。まあ今は大丈夫でしょう。本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。Q. なんでWIXとかWordPress使わないの？A. メリットデメリット度外視で、単純に自作したいからってだけです。上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、なんというか地道に自給自足したいんだな～と気づいたので時代錯誤だろうと何だろうとやりたいことやってる感じです。手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））こんな感じで思ったことをきままに投稿しようと思います～。">
+  <meta name="description" content="こんばんは！
+自作サイトで色々機能を足そうとしているんですが、
+実際作り始めると何がいるのかわかりませんね。
+あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）
+ひとまずツリー構造は行き当たりばったりに生やしてます。
+まあ今は大丈夫でしょう。
+本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？
+っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）
+まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。
+Q. なんでWIXとかWordPress使わないの？
+A. メリットデメリット度外視で、単純に自作したいからってだけです。
+上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、
+なんというか地道に自給自足したいんだな～と気づいたので
+時代錯誤だろうと何だろうとやりたいことやってる感じです。
+手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。
+（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））
+こんな感じで思ったことをきままに投稿しようと思います～。">
   <meta name="author" content="きな"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -57,8 +82,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://okina-kina.github.io/manekinako/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://okina-kina.github.io/manekinako/css/syntax.css" /><link rel="stylesheet" href="https://okina-kina.github.io/manekinako/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
-<script type="application/ld+json">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous"><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -106,9 +130,9 @@
     "name" : "きな"
   },
   "headline": "2022\/06\/28。",
-  "description" : "こんばんは！自作サイトで色々機能を足そうとしているんですが、実際作り始めると何がいるのかわかりませんね。あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）ひとまずツリー構造は行き当たりばったりに生やしてます。まあ今は大丈夫でしょう。本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。Q. なんでWIXとかWordPress使わないの？A. メリットデメリット度外視で、単純に自作したいからってだけです。上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、なんというか地道に自給自足したいんだな～と気づいたので時代錯誤だろうと何だろうとやりたいことやってる感じです。手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））こんな感じで思ったことをきままに投稿しようと思います～。",
+  "description" : "こんばんは！\n自作サイトで色々機能を足そうとしているんですが、\n実際作り始めると何がいるのかわかりませんね。\nあと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）\nひとまずツリー構造は行き当たりばったりに生やしてます。\nまあ今は大丈夫でしょう。\n本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？\nっていうのを想定してますがどうなることやら。（ネットワーク知識皆無）\nまぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。\nQ. なんでWIXとかWordPress使わないの？\nA. メリットデメリット度外視で、単純に自作したいからってだけです。\n上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、\nなんというか地道に自給自足したいんだな～と気づいたので\n時代錯誤だろうと何だろうとやりたいことやってる感じです。\n手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。\n（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））\nこんな感じで思ったことをきままに投稿しようと思います～。",
   "inLanguage" : "en",
-  "wordCount":  5 ,
+  "wordCount":  21 ,
   "datePublished" : "2022-06-27T16:09:37",
   "dateModified" : "2022-06-27T16:09:37",
   "image" : "https:\/\/okina-kina.github.io\/manekinako\/img\/logo.png",
@@ -128,21 +152,45 @@
 </script>
 
 <meta property="og:title" content="2022/06/28。" />
-<meta property="og:description" content="こんばんは！自作サイトで色々機能を足そうとしているんですが、実際作り始めると何がいるのかわかりませんね。あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）ひとまずツリー構造は行き当たりばったりに生やしてます。まあ今は大丈夫でしょう。本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。Q. なんでWIXとかWordPress使わないの？A. メリットデメリット度外視で、単純に自作したいからってだけです。上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、なんというか地道に自給自足したいんだな～と気づいたので時代錯誤だろうと何だろうとやりたいことやってる感じです。手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））こんな感じで思ったことをきままに投稿しようと思います～。">
+<meta property="og:description" content="こんばんは！
+自作サイトで色々機能を足そうとしているんですが、
+実際作り始めると何がいるのかわかりませんね。
+あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）
+ひとまずツリー構造は行き当たりばったりに生やしてます。
+まあ今は大丈夫でしょう。
+本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？
+っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）
+まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。
+Q. なんでWIXとかWordPress使わないの？
+A. メリットデメリット度外視で、単純に自作したいからってだけです。
+上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、
+なんというか地道に自給自足したいんだな～と気づいたので
+時代錯誤だろうと何だろうとやりたいことやってる感じです。
+手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。
+（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））
+こんな感じで思ったことをきままに投稿しようと思います～。">
 <meta property="og:image" content="https://okina-kina.github.io/manekinako/img/logo.png" />
 <meta property="og:url" content="https://okina-kina.github.io/manekinako/entries/2022/06/28/20220628/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="餅ツ記" />
 
   <meta name="twitter:title" content="2022/06/28。" />
-  <meta name="twitter:description" content="こんばんは！自作サイトで色々機能を足そうとしているんですが、実際作り始めると何がいるのかわかりませんね。あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）ひとまずツリー構造は行き当たりばったりに生やしてます。まあ今は大丈夫でしょう。本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？っていうのを想定してますがどうなることやら。（ネットワーク知識皆 …">
+  <meta name="twitter:description" content="こんばんは！
+自作サイトで色々機能を足そうとしているんですが、
+実際作り始めると何がいるのかわかりませんね。
+あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）
+ひとまずツリー構造は行き当たりばったりに生やしてます。
+まあ今は大丈夫でしょう。
+本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？
+っていうのを想定してますがどうなることやら。（ネッ …">
   <meta name="twitter:image" content="https://okina-kina.github.io/manekinako/img/logo.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@okinakina" />
   <meta name="twitter:creator" content="@okinakina" />
-  </head>
-  <body>
-    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+</head>
+
+<body>
+  <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
@@ -171,7 +219,7 @@
         
           
             <li>
-              <a title="Blog" href="../../../../../entries/">Blog</a>
+              <a title="Blogs" href="../../../../../entries/">Blogs</a>
             </li>
           
         
@@ -204,7 +252,7 @@
 
 
 
-    
+  
 
 
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
@@ -289,71 +337,71 @@
   </header>
 
 
-    
+  
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p>こんばんは！<!-- raw HTML omitted -->
-自作サイトで色々機能を足そうとしているんですが、<!-- raw HTML omitted -->
-実際作り始めると何がいるのかわかりませんね。<!-- raw HTML omitted -->
-あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-ひとまずツリー構造は行き当たりばったりに生やしてます。<!-- raw HTML omitted -->
-まあ今は大丈夫でしょう。<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？<!-- raw HTML omitted -->
-っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。<!-- raw HTML omitted --></p>
-<p>Q. なんでWIXとかWordPress使わないの？<!-- raw HTML omitted -->
-A. メリットデメリット度外視で、単純に自作したいからってだけです。<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、<!-- raw HTML omitted -->
-なんというか地道に自給自足したいんだな～と気づいたので<!-- raw HTML omitted -->
-時代錯誤だろうと何だろうとやりたいことやってる感じです。<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。<!-- raw HTML omitted -->
-（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-こんな感じで思ったことをきままに投稿しようと思います～。<!-- raw HTML omitted --></p>
+        <p>こんばんは！<br>
+自作サイトで色々機能を足そうとしているんですが、<br>
+実際作り始めると何がいるのかわかりませんね。<br>
+あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）<br>
+<br>
+ひとまずツリー構造は行き当たりばったりに生やしてます。<br>
+まあ今は大丈夫でしょう。<br>
+<br>
+本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？<br>
+っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）<br>
+<br>
+まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。<br></p>
+<p>Q. なんでWIXとかWordPress使わないの？<br>
+A. メリットデメリット度外視で、単純に自作したいからってだけです。<br>
+<br>
+上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、<br>
+なんというか地道に自給自足したいんだな～と気づいたので<br>
+時代錯誤だろうと何だろうとやりたいことやってる感じです。<br>
+<br>
+手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。<br>
+（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））<br>
+<br>
+こんな感じで思ったことをきままに投稿しようと思います～。<br></p>
 
 
         
-          <div class="blog-tags">
-            
-              <a href="https://okina-kina.github.io/manekinako/tags/%E6%97%A5%E8%A8%98/">日記</a>&nbsp;
-            
-          </div>
-        
-
-        
-
-        
+        <div class="blog-tags">
           
-
+          <a href="https://okina-kina.github.io/manekinako/tags/%E6%97%A5%E8%A8%98/">日記</a>&nbsp;
           
+        </div>
+        
+
+        
+
+        
+         */}}
+
+        
         
       </article>
 
       
-        <ul class="pager blog-pager">
-          
-          
-        </ul>
+      <ul class="pager blog-pager">
+        
+        
+      </ul>
       
 
 
       
-        
-        
+      
+      
       
 
     </div>
   </div>
 </div>
 
-      
+    
 <footer>
   <div class="container">
     <div class="row">
@@ -427,7 +475,8 @@ A. メリットデメリット度外視で、単純に自作したいからっ�
 
 
 
-    
-  </body>
-</html>
+  
+</body>
+<script></script>
 
+</html>

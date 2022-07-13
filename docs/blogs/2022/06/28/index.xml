@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>まねきなこ</title>
+    <link>https://okina-kina.github.io/manekinako/blogs/2022/06/28/</link>
+    <description>Recent content on まねきなこ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>kina01417@gmail.com (きな)</managingEditor>
+    <webMaster>kina01417@gmail.com (きな)</webMaster>
+    
+	<atom:link href="https://okina-kina.github.io/manekinako/blogs/2022/06/28/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2022/06/28。</title>
+      <link>https://okina-kina.github.io/manekinako/blogs/2022/06/28/2022/06/27/2022/06/28/</link>
+      <pubDate>Mon, 27 Jun 2022 16:09:37 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/blogs/2022/06/28/2022/06/27/2022/06/28/</guid>
+      <description>こんばんは！
+自作サイトで色々機能を足そうとしているんですが、
+実際作り始めると何がいるのかわかりませんね。
+あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）
+ひとまずツリー構造は行き当たりばったりに生やしてます。
+まあ今は大丈夫でしょう。
+本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？
+っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）
+まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。
+Q. なんでWIXとかWordPress使わないの？
+A. メリットデメリット度外視で、単純に自作したいからってだけです。
+上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、
+なんというか地道に自給自足したいんだな～と気づいたので
+時代錯誤だろうと何だろうとやりたいことやってる感じです。
+手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。
+（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））
+こんな感じで思ったことをきままに投稿しようと思います～。</description>
+    </item>
+    
+  </channel>
+</rss>

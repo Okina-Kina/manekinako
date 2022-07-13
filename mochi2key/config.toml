@@ -3,10 +3,9 @@ languageCode = "en-us"
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
 relativeURLs = true #相対パスで保存に変更
 theme = "beautifulhugo" 
-title = "餅ツ記" 
+title = "まねきなこ" 
 summaryLength = 100
 HackCJKLanguage = true
-mainSections = ["post","posts"]
  
 [markup]
 [markup.goldmark]
@@ -24,11 +23,8 @@ hideAuthor = true
 readingTime = true
 wordCount = true
 showRelatedPosts = true
-logo = "img/logo.png"
 since = "2022"
-
-[[Params.bigimg]]
-src = "img/bigimg.png"
+logo = "img/logo.png"
 
 [Author]
 name = "きな"
@@ -61,7 +57,7 @@ weight = -110
 [[menu.main]]
 name = 'Blogs'
 post = "<span class='alert'>New!</span>"
-url = '../entries/'
+url = '../blogs/'
 weight = -100
 
 [[menu.main]]

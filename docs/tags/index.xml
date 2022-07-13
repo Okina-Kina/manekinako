@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 餅ツ記</title>
+    <title>Tags on まねきなこ</title>
     <link>https://okina-kina.github.io/manekinako/tags/</link>
-    <description>Recent content in Tags on 餅ツ記</description>
+    <description>Recent content in Tags on まねきなこ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>kina01417@gmail.com (きな)</managingEditor>
     <webMaster>kina01417@gmail.com (きな)</webMaster>
+    <lastBuildDate>Mon, 27 Jun 2022 16:09:37 +0000</lastBuildDate>
     
 	<atom:link href="https://okina-kina.github.io/manekinako/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>日記</title>
+      <link>https://okina-kina.github.io/manekinako/tags/%E6%97%A5%E8%A8%98/</link>
+      <pubDate>Mon, 27 Jun 2022 16:09:37 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/tags/%E6%97%A5%E8%A8%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>お知らせ</title>
+      <link>https://okina-kina.github.io/manekinako/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Mon, 20 Jun 2022 08:27:26 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>イベント参加</title>
+      <link>https://okina-kina.github.io/manekinako/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0/</link>
+      <pubDate>Mon, 20 Jun 2022 08:27:26 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ごあいあつ</title>
+      <link>https://okina-kina.github.io/manekinako/tags/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/</link>
+      <pubDate>Mon, 20 Jun 2022 08:26:47 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/tags/%E3%81%94%E3%81%82%E3%81%84%E3%81%82%E3%81%A4/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
