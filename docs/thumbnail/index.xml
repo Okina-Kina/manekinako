@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thumbnail on まねきなこ</title>
+    <link>https://okina-kina.github.io/manekinako/thumbnail/</link>
+    <description>Recent content in Thumbnail on まねきなこ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>kina01417@gmail.com (きな)</managingEditor>
+    <webMaster>kina01417@gmail.com (きな)</webMaster><atom:link href="https://okina-kina.github.io/manekinako/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/blogs/2022/06/20/20220620.png</title>
+      <link>https://okina-kina.github.io/manekinako/thumbnail/blogs/2022/06/20/20220620.png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/thumbnail/blogs/2022/06/20/20220620.png/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>img/bigimg.png</title>
+      <link>https://okina-kina.github.io/manekinako/thumbnail/img/bigimg.png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kina01417@gmail.com (きな)</author>
+      <guid>https://okina-kina.github.io/manekinako/thumbnail/img/bigimg.png/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

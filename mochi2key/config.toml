@@ -1,12 +1,13 @@
+
+HackCJKLanguage = true 
 baseURL = "https://okina-kina.github.io/manekinako" 
 languageCode = "en-us" 
 publishDir = "../docs" # hugoコマンドを実行したときに格納されるディレクトリ
 relativeURLs = true #相対パスで保存に変更
+summaryLength = 100 
 theme = "beautifulhugo" 
 title = "まねきなこ" 
-summaryLength = 100
-HackCJKLanguage = true
- 
+
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
@@ -14,23 +15,30 @@ unsafe = true
 
 [Permalinks]
 cases = "/:sections/:year/:month/:slug"
-blogs = "/:sections/:year/:month/:day/:slug"
 news = "/:sections/:year/:month/:day/:slug"
-
 
 [Params]
 hideAuthor = true
+logo = "img/logo.png"
 readingTime = true
-wordCount = true
 showRelatedPosts = true
 since = "2022"
-logo = "img/logo.png"
+wordCount = true
+thumbnail = "img/bigimg.png"
 
 [Author]
-name = "きな"
 email = "kina01417@gmail.com"
-twitter = "okinakina"
+name = "きな"
 skeb = "okinaKina"
+twitter = "okinakina"
+
+#----------------------------------------------------------
+# blog post taxonomies
+[taxonomies]
+archive = "archives"
+category = "categories"
+tag = "tags"
+thumb = "thumbnail"
 
 #----------------------------------------------------------
 # [languages]
@@ -46,21 +54,29 @@ skeb = "okinaKina"
 identifier = 'About'
 name = 'About'
 url = "../about/"
-weight = -120
+weight = -180
+[menu.main.params]
+ruby = "サイトについて"
 
 [[menu.main]]
 identifier = 'Works'
 name = 'Works'
 url = "../works/"
-weight = -110
+weight = -150
+[menu.main.params]
+ruby = "作品一覧"
 
 [[menu.main]]
 name = 'Blogs'
 post = "<span class='alert'>New!</span>"
 url = '../blogs/'
-weight = -100
+weight = -120
+[menu.main.params]
+ruby = "ブログ"
 
 [[menu.main]]
 name = 'Contact'
 url = '../contact/'
-weight = -90
+weight = -70
+[menu.main.params]
+ruby = "連絡先"

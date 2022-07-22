@@ -1,74 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>まねきなこ</title>
+    <title>Blogs on まねきなこ</title>
     <link>https://okina-kina.github.io/manekinako/blogs/</link>
-    <description>Recent content on まねきなこ</description>
+    <description>Recent content in Blogs on まねきなこ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>kina01417@gmail.com (きな)</managingEditor>
     <webMaster>kina01417@gmail.com (きな)</webMaster>
-    <lastBuildDate>Mon, 27 Jun 2022 16:09:37 +0000</lastBuildDate>
-    
-	<atom:link href="https://okina-kina.github.io/manekinako/blogs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2022/06/28。</title>
-      <link>https://okina-kina.github.io/manekinako/blogs/2022/06/27/2022/06/28/</link>
-      <pubDate>Mon, 27 Jun 2022 16:09:37 +0000</pubDate>
-      <author>kina01417@gmail.com (きな)</author>
-      <guid>https://okina-kina.github.io/manekinako/blogs/2022/06/27/2022/06/28/</guid>
-      <description>こんばんは！
-自作サイトで色々機能を足そうとしているんですが、
-実際作り始めると何がいるのかわかりませんね。
-あと全然何も分からないままに実装してみてます。（案外この時間が一番楽しいのかも）
-ひとまずツリー構造は行き当たりばったりに生やしてます。
-まあ今は大丈夫でしょう。
-本格的にここをメインとするならば鯖を借りる or 自環境でDB構築するか？
-っていうのを想定してますがどうなることやら。（ネットワーク知識皆無）
-まぁゆっくり育てていきますので、1年後どうなってるか楽しみですね。
-Q. なんでWIXとかWordPress使わないの？
-A. メリットデメリット度外視で、単純に自作したいからってだけです。
-上記サイトを使えば一瞬で映えるサイトを作れるのでしょうが、
-なんというか地道に自給自足したいんだな～と気づいたので
-時代錯誤だろうと何だろうとやりたいことやってる感じです。
-手早く用意したいのが目的なら他の大手サービスを利用するのが吉だと思います。
-（なんでも自作してみたいんですよ…（終わらないプロジェクト達から目をそらしながら））
-こんな感じで思ったことをきままに投稿しようと思います～。</description>
-    </item>
-    
-    <item>
-      <title>関西コミティア65に申し込みました！</title>
-      <link>https://okina-kina.github.io/manekinako/blogs/2022/06/20/%E9%96%A2%E8%A5%BF%E3%82%B3%E3%83%9F%E3%83%86%E3%82%A3%E3%82%A265%E3%81%AB%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <pubDate>Mon, 20 Jun 2022 08:27:26 +0000</pubDate>
-      <author>kina01417@gmail.com (きな)</author>
-      <guid>https://okina-kina.github.io/manekinako/blogs/2022/06/20/%E9%96%A2%E8%A5%BF%E3%82%B3%E3%83%9F%E3%83%86%E3%82%A3%E3%82%A265%E3%81%AB%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>熱かったり寒かったり忙しいですね。
-サークル「まねきなこ」の きなです。
-以前から参加したいと考えていた同人即売会に、
-一般での参加経験もないままにサークル参加に応募してしまいました（OwO）
-（事前に開催されるCOMITIA141には足を運ぶ予定です！楽しみ…）
-私生活が非常に多忙な中の挑戦になりますが、
-本気で作りこんで参加します！
-どうぞよろしくお願い致します！</description>
-    </item>
-    
-    <item>
-      <title>サイト移設に伴うご挨拶</title>
-      <link>https://okina-kina.github.io/manekinako/blogs/2022/06/20/%E3%82%B5%E3%82%A4%E3%83%88%E7%A7%BB%E8%A8%AD%E3%81%AB%E4%BC%B4%E3%81%86%E3%81%94%E6%8C%A8%E6%8B%B6/</link>
-      <pubDate>Mon, 20 Jun 2022 08:26:47 +0000</pubDate>
-      <author>kina01417@gmail.com (きな)</author>
-      <guid>https://okina-kina.github.io/manekinako/blogs/2022/06/20/%E3%82%B5%E3%82%A4%E3%83%88%E7%A7%BB%E8%A8%AD%E3%81%AB%E4%BC%B4%E3%81%86%E3%81%94%E6%8C%A8%E6%8B%B6/</guid>
-      <description>はじめましての方は、はじめまして！
-サークル「まねきなこ」の きな と申します。
-ドット絵・ゲーム制作をメインに活動しています。
-この度HUGOという静的サイトジェネレータを使用して、
-サイトを開設してみました。
-創作は寄り道しながら行っているので、進捗はとぼとぼと
-遅くなってしまいますが、温かく見守っていただければと思います。
-それでは、今後ともよろしくお願いします！</description>
-    </item>
-    
+    <lastBuildDate>Fri, 22 Jul 2022 06:00:29 +0000</lastBuildDate><atom:link href="https://okina-kina.github.io/manekinako/blogs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
